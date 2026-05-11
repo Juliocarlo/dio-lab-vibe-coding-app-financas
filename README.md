@@ -48,6 +48,8 @@ Pessoas que desejam organizar suas finanças sem complicação e que precisam de
 - Linguagem acessível e inclusiva, seguindo princípios de Design Universal
 
 
+Endereço do site: https://my-friendly-money-pal.lovable.app
+
 
 <img width="1536" height="726" alt="image" src="https://github.com/user-attachments/assets/f9e79781-6fab-48a8-aa7c-143647d837a7" />
 
