@@ -53,5 +53,9 @@ Pessoas que desejam organizar suas finanças sem complicação e que precisam de
 <img width="1078" height="681" alt="Captura de tela 2026-05-11 153356" src="https://github.com/user-attachments/assets/d2efc16f-b059-404a-a994-6e43fc3eb1d8" />
 <img width="1343" height="858" alt="Captura de tela 2026-05-11 153543" src="https://github.com/user-attachments/assets/2c2bc693-0f87-4653-a4d8-3351cca50624" />
 <img width="1343" height="859" alt="Captura de tela 2026-05-11 153731" src="https://github.com/user-attachments/assets/fb87c514-9eca-4382-b782-fa5bae3a96fe" />
+<img width="1077" height="678" alt="image" src="https://github.com/user-attachments/assets/7091fc82-c543-4b91-83f9-ba9d2ac6ca23" />
+<img width="1076" height="676" alt="image" src="https://github.com/user-attachments/assets/5231d1c9-676d-4fa8-b465-644f22d41e2e" />
+
+
 
 
