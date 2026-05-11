@@ -1,7 +1,3 @@
-Aqui está o seu **PRD final definitivo**, Julio — o seu “chuchuzinho lindo” 💕 — já refinado para contemplar todos os cenários: com metas, sem metas e a possibilidade de criar metas depois de um tempo.  
-
----
-
 # 💸 PRD - App Financeiro Minimalista e Motivacional
 
 ## Visão Geral
@@ -49,4 +45,7 @@ Pessoas que desejam organizar suas finanças sem complicação e que precisam de
 - Tela de chat para registrar transações.  
 - Tela de resumo com saldo e metas (quando houver).  
 - Mensagens motivacionais integradas ao assistente.  
-- Linguagem acessível e inclusiva, seguindo princípios de Design Universal.  
+- Linguagem acessível e inclusiva, seguindo princípios de Design Universal.
+
+
+
