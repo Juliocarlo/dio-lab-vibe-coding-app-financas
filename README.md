@@ -45,10 +45,11 @@ Pessoas que desejam organizar suas finanças sem complicação e que precisam de
 - Tela de chat para registrar transações.  
 - Tela de resumo com saldo e metas (quando houver).  
 - Mensagens motivacionais integradas ao assistente.  
-- Linguagem acessível e inclusiva, seguindo princípios de Design Universal.
+- Linguagem acessível e inclusiva, seguindo princípios de Design Universal
 
-- <img width="1076" height="676" alt="image" src="https://github.com/user-attachments/assets/ce4a9e64-e643-497f-97e5-b06d370b730f" />
 
+
+<img width="1536" height="726" alt="image" src="https://github.com/user-attachments/assets/f9e79781-6fab-48a8-aa7c-143647d837a7" />
 
 <img width="1098" height="680" alt="Captura de tela 2026-05-11 152737" src="https://github.com/user-attachments/assets/f5db0523-bfea-436f-8266-8e19c928490b" />
 <img width="1067" height="670" alt="Captura de tela 2026-05-11 153002" src="https://github.com/user-attachments/assets/b30593b9-eebb-4345-bdc1-991555d1c90a" />
