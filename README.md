@@ -47,6 +47,9 @@ Pessoas que desejam organizar suas finanças sem complicação e que precisam de
 - Mensagens motivacionais integradas ao assistente.  
 - Linguagem acessível e inclusiva, seguindo princípios de Design Universal.
 
+- <img width="1076" height="676" alt="image" src="https://github.com/user-attachments/assets/ce4a9e64-e643-497f-97e5-b06d370b730f" />
+
+
 <img width="1098" height="680" alt="Captura de tela 2026-05-11 152737" src="https://github.com/user-attachments/assets/f5db0523-bfea-436f-8266-8e19c928490b" />
 <img width="1067" height="670" alt="Captura de tela 2026-05-11 153002" src="https://github.com/user-attachments/assets/b30593b9-eebb-4345-bdc1-991555d1c90a" />
 <img width="1079" height="679" alt="Captura de tela 2026-05-11 153237" src="https://github.com/user-attachments/assets/188c9a9e-060e-4758-b897-e3e1721221d6" />
